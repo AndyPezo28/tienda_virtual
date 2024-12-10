@@ -1,5 +1,5 @@
 <?php 
-	const BASE_URL = "http://localhost/tienda_virtual";
+	const BASE_URL = "https://andypezo28.github.io/tienda_virtual/";
 	//const BASE_URL = "https://abelosh.com/tiendavirtual";
 
 	//Zona horaria
@@ -35,9 +35,9 @@
 
 	//Datos envio de correo
 	const NOMBRE_REMITENTE = "Tienda Virtual";
-	const EMAIL_REMITENTE = "no-reply@abelosh.com";
+	const EMAIL_REMITENTE = "andy_peso@hotmail.com";
 	const NOMBRE_EMPESA = "Tienda Virtual";
-	const WEB_EMPRESA = "www.abelosh.com";
+	const WEB_EMPRESA = "www.multitienda.com";
 
 	const DESCRIPCION = "La mejor tienda en línea con artículos de moda.";
 	const SHAREDHASH = "TiendaVirtual";
